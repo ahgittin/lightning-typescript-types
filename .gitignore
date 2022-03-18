@@ -1,0 +1,17 @@
+*.iml
+
+*debug.log
+*error.log
+
+.java-version
+
+dist
+target
+package-lock.json
+tmp
+ignored
+ignore
+node_modules
+
+.idea
+
